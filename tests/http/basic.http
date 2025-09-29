@@ -1,0 +1,16 @@
+### GET health
+GET http://localhost:3000/health
+Authorization: Bearer dummy
+
+### POST doc
+POST http://localhost:3000/api/docs
+Authorization: Bearer dummy
+Content-Type: application/json
+
+{
+  "name": "Richy"
+}
+
+### GET docs
+GET http://localhost:3000/api/docs
+Authorization: Bearer dummy

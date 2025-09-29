@@ -1,0 +1,13 @@
+node_modules
+npm-debug.log
+yarn-error.log
+dist
+tests
+.git
+.github
+Dockerfile
+.gitignore
+.eslintrc*
+.prettier*
+README.md
+LICENSE
