@@ -141,3 +141,5 @@ vite.config.ts.timestamp-*
 /.idea/
 
 /data/
+
+/tests/http/http-client.private.env.json
